@@ -9,10 +9,29 @@ Since the start of mid 2022, a number of companies have conducted massive layoff
 #### The features are :
 1. company - The name of company where layoff took place.
 2. total_layoffs - Total number of employees affected by the layoff.
-3. 1mpacted_workforce_percentage - Percentage of layoffs expressed as percentage of total workers.
+3. impacted_workforce_percentage - Percentage of layoffs expressed as percentage of total workers.
 4. reported_date - Date of layoff .
 5. industry - Industry where the company operates under.
 6. headquarter_location - Headquarters
 7. sources - Source of information
 8. status - Nature of company (Pubblic or Private)
 9. additional_notes - Additional information about the company.
+
+## Environments.
+
+Google Colab  / Jupiter Notebooks / Visual Studio Code / Pycharm
+
+##  Required  libraries
+
+pip install pandas-profiling
+
+pip install matplotlib
+
+pip install pygwalker
+
+pip install  seaborn
+
+pip install pandas
+
+pip install numpy
+
