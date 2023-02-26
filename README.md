@@ -1,4 +1,4 @@
-# **TECHNOLOGY COMPANY LAYOFFS (2022 - 2023) EXPLORATORY DATA ANALYSIS.**
+# **TECHNOLOGY COMPANIES LAYOFFS (2022 - 2023) EXPLORATORY DATA ANALYSIS.**
 
 ![layoff](https://www.genengnews.com/wp-content/uploads/2018/10/July15_2013_33196045_JobCutScissors_15jobcuttingcompanies_II1120923819.jpg)
 
