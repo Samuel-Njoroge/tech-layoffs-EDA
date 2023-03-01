@@ -6,6 +6,7 @@
 A layoff is an involuntary separation from work through no fault of employees, often initiated by the employer for economic reasons to cut costs. 
 Since the start of mid 2022, a number of companies have conducted massive layoffs affecting a large group of individuals .
 ### The dataset contains information from 477 Technology companies. 
+
 #### The features are :
 1. company - The name of company where layoff took place.
 2. total_layoffs - Total number of employees affected by the layoff.
@@ -16,6 +17,8 @@ Since the start of mid 2022, a number of companies have conducted massive layoff
 7. sources - Source of information
 8. status - Nature of company (Pubblic or Private)
 9. additional_notes - Additional information about the company.
+
+#### Download the dataset here https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
 ## Environments.
 
