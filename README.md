@@ -20,21 +20,16 @@ Since the start of mid 2022, a number of companies have conducted massive layoff
 
 #### Download the dataset here https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
-## Environments.
+### Environments.
 
 Google Colab  / Jupiter Notebooks / Visual Studio Code / Pycharm
 
-##  Required  libraries
+### Problem Statement
 
-pip install pandas-profiling
+### Skills and Concepts
 
-pip install matplotlib
+### Visualization
 
-pip install pygwalker
+### Analysis
 
-pip install  seaborn
-
-pip install pandas
-
-pip install numpy
-
+### Conclusions
